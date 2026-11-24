@@ -1,0 +1,54 @@
+{
+  "name": "MAHAMOUD ABDI ABDILLAHI",
+  "title": "Machine Learning Researcher & MSc Student",
+  "introduction": "Exploring machine learning, computer vision and explainable AI to develop meaningful solutions for real-world problems.",
+  "about": "I am an MSc student and AI researcher interested in developing intelligent systems that learn from data and support real-world decision-making. My interests include deep learning, medical image analysis and interpretable machine learning.",
+  "about_extra": "I aim to combine rigorous experimentation with practical implementation and clear communication of research findings.",
+  "degree": "Master of Science (MSc)",
+  "university": "Current student",
+  "contact_message": "Interested in AI research, academic collaboration and technical opportunities.",
+  "research": [
+    {
+      "title": "Medical image analysis",
+      "description": "Machine learning approaches to classification and analysis of medical images."
+    },
+    {
+      "title": "Deep learning",
+      "description": "Representation learning, convolutional networks and feature fusion for computer vision."
+    },
+    {
+      "title": "Explainable AI",
+      "description": "Investigating methods to interpret model predictions and understand learned representations."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Medical image classification",
+      "description": "Exploring deep learning and handcrafted feature representations for medical imaging tasks.",
+      "category": "vision",
+      "tag": "Computer vision",
+      "details": "Feature extraction, model comparison, evaluation metrics and reproducible experiments."
+    },
+    {
+      "title": "Interpretable image classification",
+      "description": "Exploring visual explanation techniques to better understand the decisions of image classifiers.",
+      "category": "vision xai",
+      "tag": "Explainable AI",
+      "details": "Saliency methods, feature attribution and interpretation of model behavior."
+    }
+  ],
+  "skills": [
+    "Python",
+    "TensorFlow / Keras",
+    "Computer vision",
+    "Machine learning"
+  ],
+  "publications": [],
+  "links": {
+    "GitHub": "https://github.com/MahamoudAbdi18",
+    "Email": "",
+    "LinkedIn": "",
+    "Google Scholar": "",
+    "CV": ""
+  }
+}
