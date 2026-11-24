@@ -65,9 +65,9 @@
 
 "certifications": [
   {
-    "title": "AWS AI Practitioner Challenge",
-    "issuer": "Udacity",
-    "date": "April 2026",
+    "title": "Geographic Information Systems (GIS) with Machine learning",
+    "issuer": "Frontier Tech Learders",
+    "date": "August 2025",
     "credential_id": "",
     "url": ""
   },
@@ -76,21 +76,21 @@
     "issuer": "DeepLearning.AI",
     "date": "July 2025",
     "credential_id": "XB6NV1ORTD4P",
-    "url": ""
+    "url": "https://www.coursera.org/account/accomplishments/verify/XB6NV1ORTD4P"
   },
   {
     "title": "Agile with Atlassian Jira",
     "issuer": "Atlassian",
     "date": "July 2025",
     "credential_id": "AXSQFV6GQF15",
-    "url": ""
+    "url": "https://www.coursera.org/account/accomplishments/verify/AXSQFV6GQF15"
   },
   {
     "title": "Machine Learning",
     "issuer": "DeepLearning.AI",
     "date": "July 2025",
     "credential_id": "7NJ57K6Z0D5J",
-    "url": ""
+     "url": "https://www.coursera.org/account/accomplishments/specialization/7NJ57K6Z0D5J"
   }
 ],
 
