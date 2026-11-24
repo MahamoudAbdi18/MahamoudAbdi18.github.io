@@ -43,7 +43,38 @@
     "Computer vision",
     "Machine learning"
   ],
-  "publications": [],
+  
+"publications": [
+  {
+    "title": "Enhanced Fetal Plane Classification in Ultrasound Imaging via Prototypical Networks and Few-Shot Learning",
+    "type": "Research Article",
+    "venue": "Journal of Imaging Informatics in Medicine (Springer)",
+    "year": "2026",
+    "authors": "Mahamoud Abdi Abdillahi, Mohammed Rashad Baker, Ayşe Doğru, Selim Buyrukoğlu",
+    "description": "Few-shot learning and prototypical networks for automated fetal ultrasound image classification.",
+    "doi": "10.1007/s10278-025-01753-7",
+    "url": "https://link.springer.com/article/10.1007/s10278-025-01753-7"
+  },
+  {
+    "title": "Stacked Ensemble Machine Learning Model of Energy Consumption Prediction",
+    "type": "Research Article",
+    "venue": "Alpha Journal of Engineering and Applied Sciences",
+    "year": "2025",
+    "authors": "Mahamoud Abdi Abdillahi, Taha Etem",
+    "description": "Stacked ensemble machine learning for energy consumption forecasting and energy management.",
+    "doi": "10.70988/ajeas.1694578",
+    "url": "https://dergipark.org.tr/en/pub/ajeas/article/1694578"
+  },
+  {
+    "title": "Solar Power Prediction Using Regression-Based ML Models: A Comparative Study",
+    "type": "Conference Paper",
+    "venue": "9th BILSEL International World Scientific and Research Congress",
+    "year": "2025",
+    "description": "Comparative analysis of regression-based machine learning models for solar power prediction.",
+    "url": "https://bookcites.com/books/Up-t25sBAtLz9tQ7-AbA/solar-power-pred%C4%B1ct%C4%B1on-us%C4%B1ng-regress%C4%B1on-based-ml-models%3A-a-comparat%C4%B1ve-study"
+  }
+],
+
   "links": {
     "GitHub": "https://github.com/MahamoudAbdi18",
     "Email": "mahamoudabdi18@gmail.com",
