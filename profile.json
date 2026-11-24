@@ -22,6 +22,18 @@
     }
   ],
   "projects": [
+    
+      {
+  "title": "Solar Energy Prediction Using Machine Learning",
+  "description": "Developed and deployed a machine learning model for solar energy prediction as part of the Frontier Tech Leaders Programme – ML Bootcamp 2 in Djibouti, supporting renewable energy initiatives.",
+  "category": "energy ml",
+  "tag": "Machine Learning & Renewable Energy",
+  "details": "Solar energy forecasting, predictive modeling, machine learning model deployment and collaborative development. Team members: Mohamed Abdourazak Achour, Moustapha Ali Farah, and Aboubaker Mohamed Abdi.",
+  "url": "https://lnkd.in/dMVzjaP5",
+  "programme": "Frontier Tech Leaders Programme",
+  "programme_url": "https://www.linkedin.com/company/frontier-tech-leaders-programme/"
+},
+
     {
       "title": "Medical image classification",
       "description": "Exploring deep learning and handcrafted feature representations for medical imaging tasks.",
