@@ -44,6 +44,56 @@
     "Machine learning"
   ],
   
+"experience": [
+  {
+    "title": "Electrical Technician",
+    "company": "Doraleh Multipurpose Port (DMP)",
+    "period": "April 2023 - June 2023",
+    "duration": "3 months",
+    "location": "Djibouti, Djibouti",
+    "description": "Performed preventive and corrective maintenance on RTGs and portal cranes, including equipment troubleshooting and repairs to ensure operational efficiency and safety."
+  },
+  {
+    "title": "Apprentice Electrician",
+    "company": "Djibouti Palace Kempinski",
+    "period": "February 2022",
+    "duration": "1 month",
+    "location": "Djibouti",
+    "description": "Assisted with air conditioning maintenance, equipment repairs and central air treatment operations to ensure optimal system performance."
+  }
+],
+
+"certifications": [
+  {
+    "title": "AWS AI Practitioner Challenge",
+    "issuer": "Udacity",
+    "date": "April 2026",
+    "credential_id": "",
+    "url": ""
+  },
+  {
+    "title": "Advanced Learning Algorithms",
+    "issuer": "DeepLearning.AI",
+    "date": "July 2025",
+    "credential_id": "XB6NV1ORTD4P",
+    "url": ""
+  },
+  {
+    "title": "Agile with Atlassian Jira",
+    "issuer": "Atlassian",
+    "date": "July 2025",
+    "credential_id": "AXSQFV6GQF15",
+    "url": ""
+  },
+  {
+    "title": "Machine Learning",
+    "issuer": "DeepLearning.AI",
+    "date": "July 2025",
+    "credential_id": "7NJ57K6Z0D5J",
+    "url": ""
+  }
+],
+
 "publications": [
   {
     "title": "Enhanced Fetal Plane Classification in Ultrasound Imaging via Prototypical Networks and Few-Shot Learning",
